@@ -1,4 +1,4 @@
-# music_pick
+# music_picker
 
 A new Flutter project.
 
